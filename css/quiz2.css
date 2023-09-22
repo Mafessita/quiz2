@@ -1,0 +1,72 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0%;
+}
+
+.flexContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.divIzquierdo{
+    width: 30%;
+    text-align: center;
+    background-color: #7d0483;
+    color: white;
+}
+
+.divDerecho{
+    margin-top: 20px;
+    margin-right: 2.5%;
+    width: 65%;
+    text-align: right;
+}
+.encabezado{
+    background-color: #800080;
+    text-align: right;
+    color: white;
+}
+.conUno{
+    width: 70%;
+}
+.conDos{
+    width: 20%;  
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin: 30px;
+}
+.contenedorDos{
+    display: flex;
+}
+.contenedorUno{
+    display: flex;
+}
+.encabezadoDerecho{
+    width: 20%;
+}
+.encabezadoIzquierdo{
+    width: 70%;
+}
+.divCuerpo{
+    text-align: justify;
+}
+.divCuerpoSuperior{
+    display: flex;
+    justify-content: space-between;
+}
+.divCuerpoInferior{
+    display: flex;
+    justify-content: space-between;
+}
+.derecho{
+    width: 30%;
+}
+.centro{
+    width: 30%;
+}
+.izquierdo{
+    width: 30%;
+}
+
